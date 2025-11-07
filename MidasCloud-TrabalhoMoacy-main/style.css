@@ -1,7 +1,7 @@
 :root {
     --cor-principal: #1db954; 
-    --cor-fundo: #121212; 
-    --cor-fundo-card: #181818; 
+    --cor-fundo: #2b2b2b; 
+    --cor-fundo-crgb:(44, 44, 44)81818; 
     --cor-texto: #d1a851;
     --cor-texto-secundaria: #e7bf4f;
 }
@@ -73,4 +73,15 @@ body {
     width: 100%;
     border-radius: 4px;
     margin-bottom: 10px;
+}
+
+button {
+    border-radius: 5%;
+    background-color: rgb(29, 29, 29);
+    outline: black;
+    color: white;
+}
+
+.lulinha{
+    
 }
